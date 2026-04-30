@@ -1,0 +1,10 @@
+langchain-huggingface 
+transformers
+ accelerate 
+ huggingface_hub
+ langgraph
+ langchain_google_genai
+ langchain_community
+ langchain
+ langchain_core
+pydantic
