@@ -1,0 +1,4 @@
+langchain-huggingface 
+transformers
+ accelerate 
+ huggingface_hub
