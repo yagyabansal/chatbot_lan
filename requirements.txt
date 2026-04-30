@@ -8,3 +8,4 @@ transformers
  langchain
  langchain_core
 pydantic
+torchvision
